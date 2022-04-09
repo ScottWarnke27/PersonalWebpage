@@ -1,22 +1,20 @@
 ---
 title: "Scott Warnke"
-image: "frank.jpg"
+image: "WarnkePhoto.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/scott-warnke-75b0b4237/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:scottwarnke27@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Scott Warnke is an active duty Army officer currently pursing a PhD in Applied Science at William and Marry.
+Scott Warnke is an active duty Army officer currently pursing a PhD in Applied Science at William and Mary.
 He has a background in Applied Mathematics and experience teaching Math at the undergraduate level.
 
 ## Education
@@ -25,12 +23,15 @@ He has a background in Applied Mathematics and experience teaching Math at the u
 
 M.S. in Applied Mathematics | July 2014 - June 2016
 
-**The University of California, Berkeley** | Berkeley, CA
+**United States Military Academy** | West Point, NY
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Operations Reserarch | July 2002 - May 2006
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Operations Research Analyst** | US Army Recruting Command, Ft Knox KY | August 2019 - May 2022
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Assitant Professor** | Department of Mathematical Scieces, USMA, West Point NY | July 2016 - June 2019
+
+**Armor Officer** | Platoon Leader, Executive Officer, Troop Commander | May 2006 - June 2014
+
